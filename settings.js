@@ -3,17 +3,17 @@ import 'dotenv/config';
 const settings = {
 /* ================= BOT IDENTITY ================= */
 
-botName: process.env.BOT_NAME || 'SUBZERO-MD',
-botOwner: process.env.BOT_OWNER || 'Darrell M',
-ownerNumber: process.env.OWNER_NUMBER || '263719647303',
+botName: process.env.BOT_NAME || 'SUBZERO-DYDY',
+botOwner: process.env.BOT_OWNER || 'DYDY LE VIDE',
+ownerNumber: process.env.OWNER_NUMBER || '50932028973',
 author: process.env.AUTHOR || 'Mr Frank OFC',
-packname: process.env.PACKNAME || 'SUBZERO-MD',
-description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
+packname: process.env.PACKNAME || 'Dydy Le Vide',
+description: process.env.DESCRIPTION || 'Je suis Le Vide pas un roi, mais la fin',
 
 /* ================= SESSION ================= */
 
-sessionId: process.env.SESSION_ID || 'Ice~WmdYGf',
-pairingNumber: process.env.PAIRING_NUMBER || '',
+sessionId: process.env.SESSION_ID || 'Ice~MGAjD1',
+pairingNumber: process.env.PAIRING_NUMBER || '50932028973',
 
 /* ================= CDN ================= */
 
