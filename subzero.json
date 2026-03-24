@@ -1,6 +1,6 @@
 {
-  "name": "subzero-md",
-  "description": "A high-performance, multi-device WhatsApp automation bot built on Node.js, engineered for reliability, scalability, and advanced message handling. Developed by Mr Frank OFC, this bot supports session-based authentication, dynamic command execution, and optional database integrations for persistent data storage across MongoDB, PostgreSQL, or MySQL.",
+  "name": "subzero-DYDY",
+  "description": "DYDY LE VIDE ",
   "logo": "https://mrfrankk-cdn.hf.space/mrfrank/subzero.png",
   "keywords": ["SUBZERO-MD", "whatsapp-bot", "automation", "multi-device", "nodejs"],
   "success_url": "/",  
@@ -17,7 +17,7 @@
     "OWNER_NUMBER": {
       "description": "Primary administrator WhatsApp number in international format (e.g. 263719647303). This number receives privileged access to bot commands and controls.",
       "required": true,
-      "value": "263719647303"
+      "value": "50932028973"
     },
 
     "MONGO_URL": {
@@ -41,13 +41,13 @@
     "BOT_NAME": {
       "description": "Display name of the bot as seen in chats and command responses. Customize to match your branding or project identity.",
       "required": false,
-      "value": "SUBZERO-MD"
+      "value": "SUBZERO-DYDY"
     },
 
     "BOT_OWNER": {
       "description": "Display name of the bot owner or developer. This may appear in bot information, menus, or credits.",
       "required": false,
-      "value": "Mr Frank OFC"
+      "value": "DYDY LE VIDE"
     },
 
     "PREFIXES": {
@@ -59,19 +59,19 @@
     "PACKNAME": {
       "description": "Default sticker pack name used when generating or sending stickers through the bot.",
       "required": false,
-      "value": "SUBZERO-MD"
+      "value": "DYDY LE VIDE"
     },
 
     "COMMAND_MODE": {
       "description": "Operational mode of the bot. Use 'public' to allow all users access, or 'private' to restrict usage to the owner only.",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
 
     "TIMEZONE": {
       "description": "System timezone used for scheduling, logs, and time-based features (e.g. Africa/Harare). Ensure accuracy for correct time handling.",
       "required": false,
-      "value": "Africa/Harare"
+      "value": "America/Haïti"
     },
 
     "REMOVEBG_KEY": {
